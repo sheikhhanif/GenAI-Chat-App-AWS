@@ -9,3 +9,8 @@ Here is the architecture of an LLM-based chatbot app using AWS services. The cor
 - User Feedback Recording: Stores user feedback in an S3 bucket for analysis and improvement.
 
 Feel free to use this architecture for your GenAI apps!
+
+## Demo ![architecture](copilot.png)
+
+
+
